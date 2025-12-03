@@ -9,8 +9,8 @@ Incluye selección de mesa, catálogo de platillos, carrito dinámico, confirmac
 
 ### Frontend (App móvil)
 
-* Flutter 3.x
-* Dart
+* Flutter 3.24.1
+* Dart 3.5.3
 * animate_do
 * curved_navigation_bar
 * HTTP REST API
